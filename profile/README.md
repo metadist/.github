@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.synaplan.com"><img src="https://raw.githubusercontent.com/metadist/.github/main/profile/hero.svg" alt="Synaplan — We open-source artificial intelligence" width="100%"></a>
+<a href="https://www.synaplan.com"><img src="hero.svg" alt="Synaplan — We open-source artificial intelligence" width="100%"></a>
 
 ### We open-source artificial intelligence.
 
