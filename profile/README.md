@@ -28,17 +28,18 @@ docker compose up -d
 
 ## The ecosystem
 
+Public repositories only. Documentation is published at [docs.synaplan.com](https://docs.synaplan.com/).
+
 | Repo | What it is |
 |------|------------|
 | [synaplan](https://github.com/metadist/synaplan) | The platform — chat, RAG, media, agents, plugins, chat widget |
-| [synaplan-docs](https://github.com/metadist/synaplan-docs) | Public documentation ([docs.synaplan.com](https://docs.synaplan.com/)) |
 | [Synamail](https://github.com/metadist/Synamail) | Outlook add-in — Synaplan inside your mailbox |
+| [Synaform](https://github.com/metadist/Synaform) | Document merge plugin — AI fills prepared Word templates |
 | [synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud) | Nextcloud integration — your files as AI knowledge |
 | [synaplan-opencloud](https://github.com/metadist/synaplan-opencloud) | OpenCloud integration |
 | [synaplan-tts](https://github.com/metadist/synaplan-tts) | Self-hosted text-to-speech service |
-| [synaplan-sortx](https://github.com/metadist/synaplan-sortx) | AI document sorting — plugin + local tool |
 | [synaplan-charts](https://github.com/metadist/synaplan-charts) | Helm charts for Kubernetes |
-| [synaplan-platform](https://github.com/metadist/synaplan-platform) | Production deployment configs |
+| Mobile apps | iOS clients for Synaplan.com and self-hosted instances — [App Store](https://apps.apple.com/app/id6784278288?ct=github-org) |
 
 ## Community
 
