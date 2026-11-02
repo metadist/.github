@@ -40,19 +40,19 @@ Two rules in the code, both short: a provider is one class, and a tool call is o
 
 ## The repos
 
+Public repositories only. Documentation is published at [docs.synaplan.com](https://docs.synaplan.com/).
+
 | Repo | What it is |
 | --- | --- |
 | [synaplan](https://github.com/metadist/synaplan) | The platform — chat, knowledge, media, agents, plugins, chat widget |
-| [synaplan-docs](https://github.com/metadist/synaplan-docs) | The docs site ([docs.synaplan.com](https://docs.synaplan.com/)) |
 | [synaplan-desktop](https://github.com/metadist/synaplan-desktop) | Desktop app for Windows, macOS and Linux |
-| [synaplan-apps](https://github.com/metadist/synaplan-apps) | iPhone and Android apps |
-| [Synamail](https://github.com/metadist/Synamail) | Outlook add-in |
-| [synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud) | Nextcloud: your files as knowledge |
-| [synaplan-opencloud](https://github.com/metadist/synaplan-opencloud) | OpenCloud: the same idea for OpenCloud files |
+| [synaplan-apps](https://github.com/metadist/synaplan-apps) | iPhone and Android apps. iOS is on the [App Store](https://apps.apple.com/app/id6784278288?ct=github-org) |
+| [Synamail](https://github.com/metadist/Synamail) | Outlook add-in — Synaplan inside your mailbox |
+| [Synaform](https://github.com/metadist/Synaform) | Document merge — the AI fills a prepared Word template |
+| [synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud) | Nextcloud — your files as knowledge |
+| [synaplan-opencloud](https://github.com/metadist/synaplan-opencloud) | OpenCloud — the same idea for OpenCloud files |
 | [synaplan-tts](https://github.com/metadist/synaplan-tts) | Spoken answers, on your own server |
-| [synaplan-sortx](https://github.com/metadist/synaplan-sortx) | Document sorting |
 | [synaplan-charts](https://github.com/metadist/synaplan-charts) | Helm charts for Kubernetes |
-| [synaplan-platform](https://github.com/metadist/synaplan-platform) | Production deploy configs |
 
 ## Community
 
