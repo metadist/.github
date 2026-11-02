@@ -14,31 +14,45 @@
 
 </div>
 
-## 🕊️ Flagship: Synaplan
+## Start here
 
-Hundreds of models from every major provider (plus local Ollama), routed through a token-saving DAG task planner. Dockerized with all sources — your first answer is three commands away:
+**[Synaplan](https://github.com/metadist/synaplan)** is the platform: chat, knowledge, media and agents, on a machine you control.
 
 ```bash
 git clone https://github.com/metadist/synaplan.git
 cd synaplan
-docker compose up -d
+make up
 ```
 
-➡️ **[metadist/synaplan](https://github.com/metadist/synaplan)** — start here.
+Open <http://localhost:5173>. Sign in as `admin@synaplan.com` / `admin123`. The longer install choices are in the [Synaplan README](https://github.com/metadist/synaplan#quickstart).
 
-## The ecosystem
+## Where to read
+
+| I want to… | Open |
+| --- | --- |
+| Try the hosted app | [web.synaplan.com](https://web.synaplan.com/) |
+| Learn the product | [docs.synaplan.com](https://docs.synaplan.com/) |
+| Add an AI provider | [AI providers and models](https://docs.synaplan.com/ai-providers-and-models) |
+| See how a tool is approved | [Tools and approvals](https://docs.synaplan.com/tools-and-approvals) |
+| Change the code | [Development guide](https://github.com/metadist/synaplan/blob/main/docs/DEVELOPMENT.md) |
+
+Two rules in the code, both short: a provider is one class, and a tool call is one path. The map is the [architecture guide](https://github.com/metadist/synaplan/blob/main/docs/ARCHITECTURE.md).
+
+## The repos
 
 | Repo | What it is |
-|------|------------|
-| [synaplan](https://github.com/metadist/synaplan) | The platform — chat, RAG, media, agents, plugins, chat widget |
-| [synaplan-docs](https://github.com/metadist/synaplan-docs) | Public documentation ([docs.synaplan.com](https://docs.synaplan.com/)) |
-| [Synamail](https://github.com/metadist/Synamail) | Outlook add-in — Synaplan inside your mailbox |
-| [synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud) | Nextcloud integration — your files as AI knowledge |
-| [synaplan-opencloud](https://github.com/metadist/synaplan-opencloud) | OpenCloud integration |
-| [synaplan-tts](https://github.com/metadist/synaplan-tts) | Self-hosted text-to-speech service |
-| [synaplan-sortx](https://github.com/metadist/synaplan-sortx) | AI document sorting — plugin + local tool |
+| --- | --- |
+| [synaplan](https://github.com/metadist/synaplan) | The platform — chat, knowledge, media, agents, plugins, chat widget |
+| [synaplan-docs](https://github.com/metadist/synaplan-docs) | The docs site ([docs.synaplan.com](https://docs.synaplan.com/)) |
+| [synaplan-desktop](https://github.com/metadist/synaplan-desktop) | Desktop app for Windows, macOS and Linux |
+| [synaplan-apps](https://github.com/metadist/synaplan-apps) | iPhone and Android apps |
+| [Synamail](https://github.com/metadist/Synamail) | Outlook add-in |
+| [synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud) | Nextcloud: your files as knowledge |
+| [synaplan-opencloud](https://github.com/metadist/synaplan-opencloud) | OpenCloud: the same idea for OpenCloud files |
+| [synaplan-tts](https://github.com/metadist/synaplan-tts) | Spoken answers, on your own server |
+| [synaplan-sortx](https://github.com/metadist/synaplan-sortx) | Document sorting |
 | [synaplan-charts](https://github.com/metadist/synaplan-charts) | Helm charts for Kubernetes |
-| [synaplan-platform](https://github.com/metadist/synaplan-platform) | Production deployment configs |
+| [synaplan-platform](https://github.com/metadist/synaplan-platform) | Production deploy configs |
 
 ## Community
 
